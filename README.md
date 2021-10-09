@@ -7,6 +7,11 @@ __en la creacion de la aplicacion se uso el lenguaje JAVA y el IDE NetBeans.__
 
 # Desarollo.
 
+![Captura de pantalla (1347) png](https://user-images.githubusercontent.com/71051834/136647187-7f1361e3-ed75-4c21-abe5-76baa11b76e7.jpg)
+
+
+![Captura de pantalla (1346) png](https://user-images.githubusercontent.com/71051834/136647217-d03a12fa-7357-4f4a-a7d5-2f41876f46c9.jpg)
+
 
 
 
