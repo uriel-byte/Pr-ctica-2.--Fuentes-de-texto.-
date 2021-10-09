@@ -1,7 +1,11 @@
 # Practica-2.Fuentes-de-texto
 Práctica 2.- Fuentes de texto. Diseñar una nueva fuente de texto, construir un pequeño conjunto de caracteres usando la nueva fuente creada y usarla en una aplicación de prueba.
-Para esta practica se comenzo por crear la fuente de texto.
+
+**Para esta practica se comenzo por crear la fuente de texto.**
+
 __en la creacion de la aplicacion se uso el lenguaje JAVA y el IDE NetBeans.__
+
+# Desarollo.
 
 
 
