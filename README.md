@@ -15,15 +15,12 @@ En esta clase es necesario importar java.awt.Font y java.io.InputStream;
 
 ![Captura de pantalla (1347) png](https://user-images.githubusercontent.com/71051834/136647187-7f1361e3-ed75-4c21-abe5-76baa11b76e7.jpg)
 
-
+esta es la clase interfaz, aqui se hizo la interfaz grafica con la que el usuario pueda interactuar, es la ventana que se muestra al ejecutar la aplicación, en esa parte se diseño el aspecto de la ventana como el tamaño,los cuadros de dialogo,algunos textos estaticos 
 ![Captura de pantalla (1352) png](https://user-images.githubusercontent.com/71051834/136683304-03afc0a7-c8a5-4555-afca-542e194b91e5.jpg)
 ![Captura de pantalla (1354) png](https://user-images.githubusercontent.com/71051834/136683644-38ee37f4-9dc0-4fe3-b653-9ad1c57e4c00.jpg)
 
-
+la ultimas clase es la principal, este es el punto de entrada, se inicia llamando a las clase interfaz, para que comienze la ejecución del programa.
 ![Captura de pantalla (1346) png](https://user-images.githubusercontent.com/71051834/136647217-d03a12fa-7357-4f4a-a7d5-2f41876f46c9.jpg)
-
-
-
 
 
 
