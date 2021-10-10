@@ -17,7 +17,7 @@ En esta clase es necesario importar java.awt.Font y java.io.InputStream;
 
 
 ![Captura de pantalla (1352) png](https://user-images.githubusercontent.com/71051834/136683304-03afc0a7-c8a5-4555-afca-542e194b91e5.jpg)
-![Captura de pantalla (1354) png](https://user-images.githubusercontent.com/71051834/136683305-312bc01a-5acb-4d4d-b0ea-0ef5828fd05d.jpg)
+![Captura de pantalla (1354) png](https://user-images.githubusercontent.com/71051834/136683644-38ee37f4-9dc0-4fe3-b653-9ad1c57e4c00.jpg)
 
 
 ![Captura de pantalla (1346) png](https://user-images.githubusercontent.com/71051834/136647217-d03a12fa-7357-4f4a-a7d5-2f41876f46c9.jpg)
